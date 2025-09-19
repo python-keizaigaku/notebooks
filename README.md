@@ -20,5 +20,6 @@
 - [第13章](https://colab.research.google.com/github/python-keizaigaku/notebooks/blob/main/Chapter_13.ipynb) ｜ [第13章の演習問題](https://colab.research.google.com/github/python-keizaigaku/notebooks/blob/main/exercises_ch13.ipynb)
 - [第14章](https://colab.research.google.com/github/python-keizaigaku/notebooks/blob/main/Chapter_14.ipynb) ｜ [第14章の演習問題](https://colab.research.google.com/github/python-keizaigaku/notebooks/blob/main/exercises_ch14.ipynb)
 
-また，次のリンクをクリックすると，**JupyterLite**を使いすべてのファイルにアクセスすることができます。
-[JupyterLiteを開く](https://python-keizaigaku.github.io/z)
+また，次のバッジをクリックすると，**JupyterLite**を使いすべてのファイルにアクセスすることができます。
+
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://python-keizaigaku.github.io/z)
