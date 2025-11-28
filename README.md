@@ -4,6 +4,10 @@
 
 [「経済学のためのPython入門」のGoogle検索](https://www.google.com/search?q=%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEPython%E5%85%A5%E9%96%80&sca_esv=81be61c3dad309e5&ei=T_DLaIuzMobj2roPg_DU4QE&ved=0ahUKEwjLlvjcneKPAxWGsVYBHQM4NRwQ4dUDCBA&uact=5&oq=%E7%B5%8C%E6%B8%88%E5%AD%A6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEPython%E5%85%A5%E9%96%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiIee1jOa4iOWtpuOBruOBn-OCgeOBrlB5dGhvbuWFpemWgDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iBB1AAWABwAXgAkAEAmAFdoAFdqgEBMbgBA8gBAJgCAaACBZgDAIgGAZAGCpIHATGgB6gGsgcAuAcAwgcDMi0xyAcD&sclient=gws-wiz-serp)
 
+
+[正誤表とノートブックの修正箇所](pdf/correction.pdf)
+
+
 * `Chapter_2.ipynb`〜`Chapter_14.ipynb`は，本の中のコードをセルごとに実行したノートブックです。
 * `exercises_ch2.ipynb`〜`exercises_ch14.ipynb`は，各章の演習問題の解答コードです。
 * `data1.csv`〜`data5.csv`は，データが含まれる`csv`ファイルです。
