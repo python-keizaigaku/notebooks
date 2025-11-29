@@ -9,6 +9,8 @@
 
 [ノートブックの修正箇所](pdf/correction_ipynb.pdf)
 
+[Colabを使う際に`.csv`ファイルをアップロードする方法について](upload_file.pdf)
+
 
 * `Chapter_2.ipynb`〜`Chapter_14.ipynb`は，本の中のコードをセルごとに実行したノートブックです。
 * `exercises_ch2.ipynb`〜`exercises_ch14.ipynb`は，各章の演習問題の解答コードです。
