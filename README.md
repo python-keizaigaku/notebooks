@@ -9,7 +9,7 @@
 
 [ノートブックの修正箇所](pdf/correction_ipynb.pdf)
 
-[Colabを使う際に`.csv`ファイルをアップロードする方法について](upload_file.pdf)
+[Colabを使う際に`.csv`ファイルをアップロードする方法について](pdf/upload_file.pdf)
 
 
 * `Chapter_2.ipynb`〜`Chapter_14.ipynb`は，本の中のコードをセルごとに実行したノートブックです。
